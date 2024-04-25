@@ -1,3 +1,5 @@
+// client/:id
+
 export default function ClientId({ params }) {
   return (
     <div>
