@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import PostDetail from './components/PostDetail';
 
 const fetchData = async () => {
